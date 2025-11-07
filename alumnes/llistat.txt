@@ -1,0 +1,3 @@
+Llistat d’alumnes del grup:
+(Ací cada alumne afegirà nom i població)
+
