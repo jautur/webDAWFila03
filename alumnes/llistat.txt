@@ -1,3 +1,7 @@
 Llistat d’alumnes del grup:
 (Ací cada alumne afegirà nom i població)
-Nom: Alejandro Garrido Població: L'Alcudia de Crespins
+
+Alejandro Garrido Població | L'Alcudia de Crespins
+Jaume Tur | Xàtiva
+
+
